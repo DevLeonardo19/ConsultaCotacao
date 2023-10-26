@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Leo projetos\Cotação\bin\Debug\Cotação.exe.config
+C:\Users\User\Desktop\Leo projetos\Cotação\bin\Debug\Cotação.exe
+C:\Users\User\Desktop\Leo projetos\Cotação\bin\Debug\Cotação.pdb
+C:\Users\User\Desktop\Leo projetos\Cotação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Leo projetos\Cotação\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.Telas.Dolar.resources
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.Tela_inicial.resources
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.Properties.Resources.resources
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.csproj.CopyComplete
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.exe
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.pdb
+C:\Users\User\Desktop\Leo projetos\Cotação\obj\Debug\Cotação.Telas.Conversao.resources
